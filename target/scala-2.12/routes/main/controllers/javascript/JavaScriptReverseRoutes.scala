@@ -1,6 +1,6 @@
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/home/estudiantes/diego.goez/other/scala-dojo-heroku/conf/routes
-// @DATE:Sat Mar 24 12:57:28 COT 2018
+// @SOURCE:/home/estudiantes/diego.goez/other/scala-heroku/conf/routes
+// @DATE:Sat Mar 24 13:01:33 COT 2018
 
 import play.api.routing.JavaScriptReverseRoute
 
